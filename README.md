@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello There, What's up?</h1>
 
 ###
 
-<p align="left">My name is Nipun</p>
+<p align="left">My name is Nipun Dehariya</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">I am an undergraduate currently pursuing computer science engineering with a specialization in artificial intelligence and machine learning. I have honed my C++ and front-end development skills and presently working on Python and SQL.</p>
 
 ###
 
